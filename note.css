@@ -1,0 +1,96 @@
+body{
+    background-image: url(vivid-blurred-colorful-wallpaper-background.jpg);
+    
+}
+#serchbtn{
+    border: none;
+    border-radius: 5px;
+    
+}
+#logo{
+    position: relative;
+    display: flex;
+}
+#logo h1{
+    position: relative;
+    justify-content: center;
+    display: flex;
+    left: 20%;
+    
+}
+#search{
+    position: relative;
+    top: -50px;
+    left: 150px;
+    justify-content: center;
+    display: flex;
+}
+
+#d2{
+    position: relative;
+    margin: 10px auto;
+    height: 300px;
+    width: 500px;
+    border: 5px solid black;
+    justify-content: center;
+    display: flex;
+    
+}
+#d2 label{
+    position: relative;
+    top: 15px;
+    font-size: 25px;
+    color: antiquewhite;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+#i1{
+    margin-top: 20px;
+    border-radius: 5px;
+}
+#i2{
+    margin-top: 20px;
+    padding: 30px;
+    border-radius: 5px;
+}
+#d2 button{
+    margin-top: 10px;
+    border: none;
+    border-radius: 10px;
+    width: 60px;
+    height: 20px;
+    background-color: yellow;
+}
+#im1{
+    position: relative;
+    z-index: -2;
+    height: 300px;
+    width: 500px;
+    top: -249px;
+}
+.lb{
+    color: rgb(53, 236, 239);
+    font-size: 20px;
+    font-weight: 200;
+    position: relative;
+    top: 20px;
+    background-color: rgb(31, 48, 48);
+}
+#tab{
+    background-color: rgb(27, 27, 68);
+    color: rgb(232, 209, 209);
+    height: auto;
+    width: 300px;
+    border: solid 1px black;
+}
+#tab th ,td{
+    border: 1px solid rgb(161, 153, 153);
+}
+#tbl{
+    position: relative;
+    margin: 10px auto;
+    justify-content: center;
+    display: flex;
+    
+}
